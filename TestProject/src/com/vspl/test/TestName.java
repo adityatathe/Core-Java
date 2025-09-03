@@ -4,6 +4,7 @@ public class TestName {
 
 	public static void main(String[] args) {
 		System.out.println("Test name printed");
+		System.out.println("second name");
 
 	}
 
